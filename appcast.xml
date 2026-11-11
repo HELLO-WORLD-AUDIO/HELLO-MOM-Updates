@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>HELLO MOM Updates</title>
+    <link>https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases</link>
+    <description>Signed updates for HELLO MOM</description>
+    <language>en</language>
+  </channel>
+</rss>
