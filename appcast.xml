@@ -11,7 +11,16 @@
       <sparkle:version>0.7.16</sparkle:version>
       <sparkle:shortVersionString>0.7.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>HELLO MOM 0.7.16。変更内容はリリースページをご確認ください。</description>
+      <description sparkle:format="markdown">## HELLO MOM v0.7.16
+
+### 修正
+- macOSで、以前の起動情報が残っていると「バックエンドに接続できません」となり、アプリを起動できなくなる問題を修正しました。
+- バックエンドの二重起動を判定する仕組みを改善し、異常終了後も起動できるようにしました。
+
+### 更新方法
+- v0.7.14以降：アプリメニューまたはConfigの「Check for Updates…」から更新できます。
+- v0.7.13以前：配布するDMGまたはPKGで手動更新してください。
+</description>
       <enclosure url="https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases/download/v0.7.16/HELLO_MOM.zip" length="46473519" type="application/octet-stream" sparkle:edSignature="74cOjok0ADVx/zZbEf3ak8KL1WfYYD6dXuhVU+bowg6dTwyG24fCZKsJQIN1RoHubFAwuDBWhZNsMSm5tcMNDw==" />
     </item>
     <item>
