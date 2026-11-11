@@ -6,6 +6,15 @@
     <description>Signed updates for HELLO MOM</description>
     <language>en</language>
     <item>
+      <title>0.7.15</title>
+      <pubDate>Wed, 11 Nov 2026 10:03:03 GMT</pubDate>
+      <sparkle:version>0.7.15</sparkle:version>
+      <sparkle:shortVersionString>0.7.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>HELLO MOM 0.7.15。変更内容はリリースページをご確認ください。</description>
+      <enclosure url="https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases/download/v0.7.15/HELLO_MOM.zip" length="46465219" type="application/octet-stream" sparkle:edSignature="DwR9Dnxe01h68g2JNe3F/6hdNfPzJcESzoV2P3k090/T0pnooeXPUIKzoiM/vWhl/Zf6u17klOUQLhzBePCMCA==" />
+    </item>
+    <item>
       <title>0.7.14</title>
       <pubDate>Wed, 11 Nov 2026 02:20:23 GMT</pubDate>
       <sparkle:version>0.7.14</sparkle:version>
