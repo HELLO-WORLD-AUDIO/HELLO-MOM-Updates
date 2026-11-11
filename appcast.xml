@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>HELLO MOM Updates</title>
     <link>https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases</link>
     <description>Signed updates for HELLO MOM</description>
     <language>en</language>
+    <item>
+      <title>0.7.14</title>
+      <pubDate>Wed, 11 Nov 2026 02:20:23 GMT</pubDate>
+      <sparkle:version>0.7.14</sparkle:version>
+      <sparkle:shortVersionString>0.7.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>HELLO MOM 0.7.14。変更内容はリリースページをご確認ください。</description>
+      <enclosure url="https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases/download/v0.7.14/HELLO_MOM.zip" length="46193121" type="application/octet-stream" sparkle:edSignature="2ah8F1DvrM7UTVs4GDBxZGqjW8zNLZsIEvIGk0HgWvCrJJqUR1HkfZdqT4VTNdRAOrX+29pq5YbmIAkigPMCAQ==" />
+    </item>
   </channel>
 </rss>
