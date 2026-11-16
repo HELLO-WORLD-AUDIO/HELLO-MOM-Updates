@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO MOM</description>
     <language>en</language>
     <item>
+      <title>0.7.17</title>
+      <pubDate>Mon, 16 Nov 2026 06:12:47 GMT</pubDate>
+      <sparkle:version>0.7.17</sparkle:version>
+      <sparkle:shortVersionString>0.7.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## HELLO MOM v0.7.17
+
+### 修正
+- Macの起動直後に指定したネットワークインターフェース・IPアドレスの準備が間に合わない場合でも、自動で再試行し、利用可能になるとMOM通信を開始するようにしました。
+- MOM通信を開始できない場合に、NIC・IPの準備待ちなど、原因と自動再試行中であることを画面に表示するようにしました。
+- DADmanとの再接続処理と接続状態の判定を改善しました。
+
+### 更新方法
+- v0.7.14以降：アプリメニューまたはConfigの「Check for Updates…」から更新できます。
+- v0.7.13以前：配布するDMGまたはPKGで手動更新してください。
+</description>
+      <enclosure url="https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases/download/v0.7.17/HELLO_MOM.zip" length="46490295" type="application/octet-stream" sparkle:edSignature="mMZNr8B4CP9nn69/JAtU2tytKagFR/Ee0zLZAZc2kVmzOXHZDYjBN7znjI1fAb1QQdjlQe3gtmt/XhQgFyKSBQ==" />
+    </item>
+    <item>
       <title>0.7.16</title>
       <pubDate>Wed, 11 Nov 2026 11:18:29 GMT</pubDate>
       <sparkle:version>0.7.16</sparkle:version>
