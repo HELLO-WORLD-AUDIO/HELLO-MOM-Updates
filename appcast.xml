@@ -6,6 +6,23 @@
     <description>Signed updates for HELLO MOM</description>
     <language>en</language>
     <item>
+      <title>0.7.18</title>
+      <pubDate>Wed, 18 Nov 2026 06:20:54 GMT</pubDate>
+      <sparkle:version>0.7.18</sparkle:version>
+      <sparkle:shortVersionString>0.7.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## HELLO MOM v0.7.18
+
+### 更新
+- macOSアプリとインストーラーの署名を、組織名義の「HELLO WORLD AUDIO」へ変更しました。
+
+### 更新方法
+- v0.7.14以降：アプリメニューまたはConfigの「Check for Updates…」から更新できます。
+- v0.7.13以前：配布するDMGまたはPKGで手動更新してください。
+</description>
+      <enclosure url="https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases/download/v0.7.18/HELLO_MOM.zip" length="46491146" type="application/octet-stream" sparkle:edSignature="/FuF5PgX9YfrY/HCdoshLssiMrQb2lTyQqQ/ApQqg40Hkisxkg7j5m8lQaNFHpeyWxm2oQ+ZNP5KVY+yTMFSDg==" />
+    </item>
+    <item>
       <title>0.7.17</title>
       <pubDate>Mon, 16 Nov 2026 06:12:47 GMT</pubDate>
       <sparkle:version>0.7.17</sparkle:version>
