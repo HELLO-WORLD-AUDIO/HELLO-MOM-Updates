@@ -6,6 +6,27 @@
     <description>Signed updates for HELLO MOM</description>
     <language>en</language>
     <item>
+      <title>0.7.19</title>
+      <pubDate>Tue, 24 Nov 2026 19:38:19 GMT</pubDate>
+      <sparkle:version>0.7.19</sparkle:version>
+      <sparkle:shortVersionString>0.7.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## HELLO MOM v0.7.19
+
+### 修正
+- MOM 2以降で変更したボタンのラベル・色が、Stream Deck・Ulanzi・VSDへ即時反映されない問題を修正しました。
+- MOM 2以降のレイヤー名・色の変更通知を修正しました。
+
+### 変更
+- MX Creative Consoleは一時的にサポート対象外としました。
+
+### 更新方法
+- v0.7.14以降：アプリメニューまたはConfigの「Check for Updates…」から更新できます。
+- v0.7.13以前：配布するDMGまたはPKGで手動更新してください。
+</description>
+      <enclosure url="https://github.com/HELLO-WORLD-AUDIO/HELLO-MOM-Updates/releases/download/v0.7.19/HELLO_MOM.zip" length="46485845" type="application/octet-stream" sparkle:edSignature="4eHJUlrP9ji+jNFdhlts6HvePnrF2Sw9rzSTET6ApzttgbX2LWJW6fiIctcz3qwD5Y0FESWM4G0BhHbRejtcDA==" />
+    </item>
+    <item>
       <title>0.7.18</title>
       <pubDate>Wed, 18 Nov 2026 06:20:54 GMT</pubDate>
       <sparkle:version>0.7.18</sparkle:version>
